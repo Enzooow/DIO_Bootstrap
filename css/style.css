@@ -1,0 +1,29 @@
+body {
+    font: 20px;
+}
+
+.navbar {
+    background-color: rgb(92, 91, 91);
+}
+
+.agentes {
+    background-color: rgb(218, 77, 77);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.mapas {
+    background-color: white;
+}
+
+.arsenal {
+    background-color: rgb(218, 77, 77);
+}
+
+.bg-footer {
+    background-color: black;
+    color:white;
+}
